@@ -1,1 +1,3 @@
-# basic_flutter_audio
+# BASIC FLUTTER AUDIO PROJECT
+
+Learning Flutter
